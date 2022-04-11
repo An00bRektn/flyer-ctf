@@ -1,0 +1,1 @@
+MSG=b"LUCTF{b4d_s33d_b4d_3ncryp710n_a674d}"

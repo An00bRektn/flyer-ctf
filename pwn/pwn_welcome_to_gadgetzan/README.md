@@ -1,0 +1,2 @@
+# Welcome to Gadgetzan
+So you've found yourself in Gadgetzan's jail with Mekgineer Thermaplugg after causing a ruckus in Gadgetzan. The goblins don't seem to be letting you out anytime soon. Thermaplugg has been working on some trinkets to try and break out... can you help him?
