@@ -18,3 +18,8 @@ This repository contains live malware samples for use in the Flyer CTF that ran 
 - Practice safe malware handling procedures at all times when using these samples.
 
 By downloading the contents of this repository, regardless of if you participated in the event or not, you are agreeing to the End User License Agreement. Please refer to `EULA.md` for more information.
+
+## References/Resources for Hosting
+- [CSICTF Blog Posts](https://medium.com/csictf/self-hosting-a-ctf-platform-ctfd-90f3f1611587)
+- [LiveOverflow's](https://github.com/LiveOverflow/pwn_docker_example), [M_Alpha's](https://github.com/MEhrn00/CTF-templates), and [HackTheBox's](https://www.hackthebox.com/) various Dockerfiles and configuration stuffs
+- [CTFd](https://ctfd.io/)
