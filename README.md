@@ -12,9 +12,9 @@ This repository contains challenge files and source code used in the local/priva
 
 This repository contains live malware samples for use in the Flyer CTF that ran from April 7, 2022 to April 9, 2022. These samples are written to emulate common malware characteristics. Although they are not "in the wild" samples, they are, and should considered to be dangerous. These samples are to be handled with extreme caution at all times.
 
-    Do not download these samples to a computer you do not own.
-    Do not execute any of these samples on a computer you do not own.
-    Do not download and/or execute these samples in an environment that you cannot revert to a saved state, i.e. a virtual machine.
-    Practice safe malware handling procedures at all times when using these samples.
+- Do not download these samples to a computer you do not own.
+- Do not execute any of these samples on a computer you do not own.
+- Do not download and/or execute these samples in an environment that you cannot revert to a saved state, i.e. a virtual machine.
+- Practice safe malware handling procedures at all times when using these samples.
 
-By downloading the contents of this repository, regardless of if you participated in the event or not, you are agreeing to the End User License Agreement. Please refer to EULA.md for more information.
+By downloading the contents of this repository, regardless of if you participated in the event or not, you are agreeing to the End User License Agreement. Please refer to `EULA.md` for more information.
